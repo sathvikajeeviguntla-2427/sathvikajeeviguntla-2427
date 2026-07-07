@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Jeeviguntla Sathvika</h1>
+
+<h3 align="center">
+Computer Science Undergraduate | Software Developer | AI & Machine Learning Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Software;Open+Source+Contributor;Always+Learning+and+Growing" alt="Typing SVG" />
+</p>
+
+---
+
 # 💫 About Me
 
 🔭 Currently building AI/ML applications and software solutions.  
