@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on AI/ML, Deep Learning and Computer Vision<br>👯 I’m looking to collaborate on AI, ML, DL, and Open Source projects.<br>🤝 I’m looking for help with MLOps and scalable AI systems.<br>🌱 I’m currently learning Deep Learning, LLMs, RAG, and advanced DSA.<br>💬 Ask me about Python, ML, DL, CV, and DSA.<br>⚡ Fun fact: I enjoy building intelligent solutions for real-world problems.
+# 💫 About Me
+
+🔭 Currently building AI/ML applications and software solutions.  
+🌱 Learning Deep Learning, LLMs, RAG, and Advanced DSA.  
+👯 Open to collaborating on AI/ML, Software Development, and Open Source projects.  
+💬 Ask me about Python, Java, Web Development, Machine Learning, and DSA.  
+🚀 Passionate about creating scalable software and intelligent solutions for real-world problems.
 
 
 ## 🌐 Socials:
